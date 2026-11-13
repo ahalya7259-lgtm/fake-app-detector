@@ -1,0 +1,52 @@
+app_name,developer,package_hint
+WhatsApp,Meta Platforms,com.whatsapp
+Instagram,Meta Platforms,com.instagram
+Facebook,Meta Platforms,com.facebook
+Messenger,Meta Platforms,com.facebook.orca
+TikTok,ByteDance,com.zhiliaoapp.musically
+YouTube,Google LLC,com.google.android.youtube
+Gmail,Google LLC,com.google.android.gm
+Google Maps,Google LLC,com.google.android.apps.maps
+Google Chrome,Google LLC,com.android.chrome
+Google Drive,Google LLC,com.google.android.apps.docs
+Google Photos,Google LLC,com.google.android.apps.photos
+Spotify,Spotify AB,com.spotify.music
+Netflix,Netflix Inc,com.netflix.mediaclient
+Amazon Shopping,Amazon Mobile LLC,com.amazon.mShop.android.shopping
+PayPal,PayPal Mobile,com.paypal.android.p2pmobile
+Uber,Uber Technologies,com.ubercab
+Uber Eats,Uber Technologies,com.ubercab.eats
+Twitter,X Corp,com.twitter.android
+X,X Corp,com.twitter.android
+Snapchat,Snap Inc,com.snapchat.android
+LinkedIn,LinkedIn,com.linkedin.android
+Telegram,Telegram FZ-LLC,org.telegram.messenger
+Signal,Signal Foundation,org.thoughtcrime.securesms
+Discord,Discord Inc,com.discord
+Zoom,Zoom Video Communications,us.zoom.videomeetings
+Microsoft Teams,Microsoft Corporation,com.microsoft.teams
+Outlook,Microsoft Corporation,com.microsoft.office.outlook
+Word,Microsoft Corporation,com.microsoft.office.word
+Excel,Microsoft Corporation,com.microsoft.office.excel
+PowerPoint,Microsoft Corporation,com.microsoft.office.powerpoint
+OneDrive,Microsoft Corporation,com.microsoft.skydrive
+Candy Crush Saga,King,com.king.candycrushsaga
+PUBG Mobile,Tencent,com.tencent.ig
+Call of Duty Mobile,Activision Publishing,com.activision.callofduty.shooter
+Clash of Clans,Supercell,com.supercell.clashofclans
+Roblox,Roblox Corporation,com.roblox.client
+Minecraft,Mojang,com.mojang.minecraftpe
+Duolingo,Duolingo,com.duolingo
+Pinterest,Pinterest,com.pinterest
+Reddit,Reddit Inc,com.reddit.frontpage
+Booking.com,Booking.com,com.booking
+Airbnb,Airbnb Inc,com.airbnb.android
+Uber Driver,Uber Technologies,com.ubercab.driver
+Cash App,Block Inc,com.squareup.cash
+Venmo,PayPal Inc,com.venmo
+CapCut,ByteDance,com.lemon.lvoverseas
+SHAREit,Smart Media4U Technology,com.lenovo.anyshare.gps
+Truecaller,True Software Scandinavia,com.truecaller
+MX Player,J2 Interactive,com.mxtech.videoplayer.ad
+VLC,VideoLAN,org.videolan.vlc
+Flashlight,Google LLC,com.google.android.apps.flashlight
